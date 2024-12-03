@@ -1,7 +1,10 @@
 site_name: HOAC-OS2EDU
 site_url: https://HOAC-OS2EDU.github.io/HOAC-OS2EDU/
 nav:
-  - Home: index.md
-  - About: about.md
+  - 主页: index.md
+  - 友群链接: friend.md
+  - 资料分享: share.md
+  - 群友维护项目/博客: project.md
+  - 关于: about.md
 theme:
   name: 'material'
