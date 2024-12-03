@@ -1,5 +1,5 @@
 site_name: HOAC-OS2EDU
-site_url: https://HOAC-OS2EDU.github.io/my-blog/
+site_url: https://HOAC-OS2EDU.github.io/HOAC-OS2EDU/
 nav:
   - Home: index.md
   - About: about.md
