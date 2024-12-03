@@ -3,9 +3,11 @@
     <url>
          <loc>https://HOAC-OS2EDU.github.io/HOAC-OS2EDU/</loc>
          <lastmod>2024-12-03</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://HOAC-OS2EDU.github.io/HOAC-OS2EDU/about/</loc>
          <lastmod>2024-12-03</lastmod>
+         <changefreq>daily</changefreq>
     </url>
 </urlset>
