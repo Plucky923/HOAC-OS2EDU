@@ -1,0 +1,7 @@
+site_name: HOAC-OS2EDU
+site_url: https://HOAC-OS2EDU.github.io/my-blog/
+nav:
+  - Home: index.md
+  - About: about.md
+theme:
+  name: 'material'
